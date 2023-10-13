@@ -1,0 +1,8 @@
+GCD of 10 and 40 is 10
+GCD of 35 and 47 is 1
+GCD of 68 and 22 is 2
+GCD of 40 and 10 is 10
+GCD of 98 and 10 is 2
+GCD of 50 and 35 is 5
+GCD of 68 and 40 is 4
+GCD of 10 and 40 is 10
